@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EightSpringCore/src/main/java"/>
+	<classpathentry kind="src" path="EightSpringCore/src/test/java"/>
+	<classpathentry kind="src" path="Fifth/spring-inject-annotation-example (2)/spring-inject-annotation-example/spring-inject-annotation-example/src/main/java"/>
+	<classpathentry kind="src" path="Fifth/spring-inject-annotation-example (2)/spring-inject-annotation-example/src/main/java"/>
+	<classpathentry kind="src" path="Fifth/SpringRequiredAnnotation (2)/SpringRequiredAnnotation/SpringRequiredAnnotation/src/main/java"/>
+	<classpathentry kind="src" path="Fifth/SpringRequiredAnnotation (2)/SpringRequiredAnnotation/src/main/java"/>
+	<classpathentry kind="src" path="Fifth/SpringResourceAnnotationExample (2)/SpringResourceAnnotationExample/SpringResourceAnnotationExample/src/main/java"/>
+	<classpathentry kind="src" path="Fifth/SpringResourceAnnotationExample (2)/SpringResourceAnnotationExample/src/main/java"/>
+	<classpathentry kind="src" path="Fourth/Annotation/Annotation/src/main/java"/>
+	<classpathentry kind="src" path="Ninth/src/main/java"/>
+	<classpathentry kind="src" path="One/Using Constructor/SpringCore-1.2-main/src/main/java"/>
+	<classpathentry kind="src" path="One/Using Setter/SpringCore-1.1-main/src/main/java"/>
+	<classpathentry kind="src" path="One/Using Setter/SpringCore-1.1-main/src/test/java"/>
+	<classpathentry kind="src" path="SeventhSPEl/src/main/java"/>
+	<classpathentry kind="src" path="Sixth/Spring2-after-hp/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Sixth/Spring2-after-hp/src/main/java"/>
+	<classpathentry excluding="com/spring/example/Spring2/after/hp/" kind="src" path="Sixth/Spring2-after-hp/src/test/java"/>
+	<classpathentry kind="src" path="Sixth/Spring2-after-hp/src/test/java/com/spring/example/Spring2/after/hp"/>
+	<classpathentry kind="src" path="TenthSpring/src/main/java"/>
+	<classpathentry kind="src" path="Third/banking/banking/src/main/java"/>
+	<classpathentry kind="src" path="Third/banking/banking/src/test/java"/>
+	<classpathentry kind="src" path="two/two1(using List)/src/main/java"/>
+	<classpathentry kind="src" path="two/two2(using set)/src/main/java"/>
+	<classpathentry kind="src" path="two/two3(using Map)/src/main/java"/>
+	<classpathentry kind="src" path="two/two3(using Map)/src/test/java"/>
+	<classpathentry kind="output" path="EightSpringCore/target/classes"/>
+</classpath>
